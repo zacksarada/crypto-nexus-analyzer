@@ -1,1 +1,1 @@
-# crypto-nexus-analyzer01
+# crypto-nexus-analyzer
